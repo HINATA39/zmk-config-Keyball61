@@ -65,6 +65,8 @@
         automouse-layer = <4>;
 	scroll-layers = <5>;
 	snipe-layers = <6>;
+
+	scale = <8>; // 感度設定
     };
 };
 

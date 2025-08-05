@@ -44,7 +44,7 @@ layers:
   - V
   - B
   - PgDn
-  - PgUp
+  - A
   - N
   - M
   - {t: ',', s: <}

@@ -43,8 +43,8 @@ layers:
   - C
   - V
   - B
-  - '{'
-  - '}'
+  - B
+  - $$mdi:printer-outline$$
   - N
   - M
   - {t: ',', s: <}

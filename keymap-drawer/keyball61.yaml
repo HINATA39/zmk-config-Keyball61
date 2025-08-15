@@ -60,7 +60,7 @@ layers:
   - {t: '$$mdi:backspace-reverse-outline$$', h: SNIPE}
   - {t: '$$mdi:keyboard-space$$', h: SYM}
   - LANGUAGE 1
-  - $$mdi:apple-keyboard-option$$
+  - {t: '@', h: SCROLL}
   - $$mdi:apple-keyboard-shift$$
   NUM:
   - {t: '$$mdi:transfer$$', type: trans}
@@ -370,7 +370,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {type: held alternate}
   - {t: '$$mdi:transfer$$', type: trans}
   SNIPE:
   - {t: '$$mdi:transfer$$', type: trans}

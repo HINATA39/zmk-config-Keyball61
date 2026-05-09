@@ -50,7 +50,7 @@ layers:
   - {t: ',', s: <}
   - {t: ., s: '>'}
   - {t: /, s: '?'}
-  - $$mdi:apple-keyboard-shift$$
+  - A
   - NUM
   - $$mdi:apple-keyboard-control$$
   - LGUI
